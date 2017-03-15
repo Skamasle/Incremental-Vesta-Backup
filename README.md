@@ -8,12 +8,18 @@ Incremental and remote vesta backup, rsync and lftp option ( full user backup )
 : version 0.1
 
 -- Backup home dir / mails / config files
+
 -- Backup databases
+
 -- Backup vesta files
+
 -- Backup passwords
 
 TODO
 
 -- Restore system
+
 -- Incremental backup in localhost ( not like it because not is ziped )
+
 -- Incremental backups whit incremental gziped files, like gziped backup but coping just changed files
+
