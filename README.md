@@ -15,6 +15,8 @@ Incremental and remote vesta backup, rsync and lftp option ( full user backup )
 
 -- Backup passwords
 
+-- # This Script backup vesta data, user passwords, mails, data bases and user home dir ( /home/$user )
+
 TODO
 
 -- Restore system
